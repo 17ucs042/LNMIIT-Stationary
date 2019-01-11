@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LNMIIT Stationary</string>
+    <string name="are_you">Are You?</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="title_activity_user_login">Log in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Enter Your Email</string>
+    <string name="prompt_email1">Enter Your Email(Work Account)</string>
+    <string name="prompt_id1">Enter ID</string>
+    <string name="prompt_id2">Re-Enter ID</string>
+    <string name="prompt_name">Enter Your Name</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_user_sign_up"><u>Sign Up</u></string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="no_account">Do not have a account?</string>
+    <string name="list_label">Items List</string>
+    <string name="add_item">Add Item</string>
+    <string name="summary">Select Quantity</string>
+    <string name="item">Item :</string>
+    <string name="type">Type :</string>
+    <string name="enter_item">Enter Item Name</string>
+    <string name="enter_type">Enter Item Type</string>
+    <string name="orders">Orders</string>
+</resources>
